@@ -88,3 +88,16 @@ These findings suggest that while fare reductions encouraged greater public tran
 
 **Figure R4.** Passenger evaluation of public transport service attributes during the free public transport period.
 
+## Future Travel Behaviour and Policy Implications
+
+Survey respondents expressed mixed expectations regarding their future travel behaviour once free public transport ended. While many anticipated returning to previous travel patterns, a substantial proportion expected to maintain increased public transport use or remained uncertain about their future behaviour.
+
+Confidence in maintaining higher levels of public transport use was moderate overall, suggesting that behavioural changes observed during the free fare period may persist for some users but are unlikely to become universal without additional incentives or service improvements.
+
+Respondents also expressed strong support for affordability-focused transport policies. Most agreed or strongly agreed that governments should provide measures to help households manage transport costs during periods of economic pressure.
+
+These findings support the decision to continue monitoring travel behaviour during the subsequent 50% fare reduction period, as longer-term behavioural responses may emerge gradually rather than during the initial free fare phase.
+
+![Future Travel Behaviour and Policy Implications](figures/analysis_future_behaviour.png)
+
+**Figure R5.** Future travel intentions and attitudes towards public transport affordability policies.

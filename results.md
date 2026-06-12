@@ -76,5 +76,15 @@ The findings indicate that the policy encouraged many Victorians to experiment w
 
 **Figure R3.** Changes in public transport use, car use and mode substitution during the free public transport period.
 
+# Public Transport Experience and Service Quality
 
+Survey respondents generally reported positive perceptions of public transport services. Ease of use received the strongest ratings, with approximately 69% of active users rating it as good or very good. Overall convenience, travel time and reliability also received predominantly positive assessments.
+
+However, comfort and service frequency attracted comparatively weaker ratings. Comfort recorded the lowest proportion of very good ratings, while service frequency and reliability generated the highest levels of dissatisfaction among service attributes assessed.
+
+These findings suggest that while fare reductions encouraged greater public transport use, long-term shifts away from private vehicle travel may depend on continued improvements in service quality, reliability, comfort and network capacity.
+
+![Public transport performance](figures/analysis_pt_performance.png)
+
+**Figure R4.** Passenger evaluation of public transport service attributes during the free public transport period.
 

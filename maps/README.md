@@ -6,7 +6,7 @@ This folder contains spatial visualisations and geographic summaries used in the
 
 ![Survey postcode distribution](survey_postcode_distribution.png)
 
-**Figure 1.** Geographic distribution of survey respondents by residential postcode. Marker sizes represent aggregated respondent counts within each postcode area. Responses are shown at postcode level only to protect participant privacy.
+**Map 1.** Geographic distribution of survey respondents by residential postcode. Marker sizes represent aggregated respondent counts within each postcode area. Responses are shown at postcode level only to protect participant privacy.
 
 The survey achieved broad geographic coverage across Victoria, with responses received from metropolitan Melbourne as well as regional and rural communities across the state.
 

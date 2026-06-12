@@ -66,7 +66,7 @@ SCATS and TIRTL traffic data are publicly available through Transport Victoria o
 - `findings.md`: Key findings and interpretation.
 - `updates.md`: Ongoing updates during the 50% fare period.
 - `figures/`: Public figures and charts.
-- 'maps/': [Survey postcode distribution](maps/README.md)
+- maps/: [Survey postcode distribution](maps/README.md)
 - `tables/`: Aggregated summary tables.
 - `docs/`: Technical summaries and reports.
 

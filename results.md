@@ -1,6 +1,6 @@
 # Results
 
-## Survey Findings
+## 1. Survey Findings (Executive Summary)
 
 | Indicator                                                        | Result |
 | ---------------------------------------------------------------- | -----: |
@@ -14,43 +14,21 @@ The survey results suggest the free public transport period encouraged many Vict
 
 ---
 
-## Corridor Traffic Summary
+## 2. Survey Results
 
-| Corridor    | Average Change |
-| ----------- | -------------: |
-| Tullamarine |          -6.4% |
-| Monash      |          -3.2% |
-| Eastern     |          -2.2% |
-| Nepean      |          -1.3% |
-| West Gate   |          +3.1% |
+## 2.1 Mode Substitution and Behavioural Change
 
-Four of the five monitored corridors recorded lower traffic volumes than their matched March baseline.
+The survey found clear evidence of behavioural change during the free public transport period. More than one-third of respondents (38.2%) reported replacing at least some private car trips with public transport. Among those who changed behaviour, most substituted between one and five car trips per week.
 
----
+The removal of fares emerged as the single most important reason for replacing car trips with public transport, followed by increased fuel prices. Convenience, parking costs and environmental concerns played smaller but still measurable roles.
 
-## Day-of-Week Traffic Heatmap
+The findings indicate that the policy encouraged many Victorians to experiment with public transport and substitute selected car trips, even though large-scale reductions in overall road traffic were not observed across all corridors.
 
-![Day-of-week traffic changes during Victoria's free public transport period](figures/heatmap_dayofweek.png)
+![Mode substitution dashboard](figures/analysis_mode_substitution.png)
 
-**Figure R1.** Average traffic change by corridor and day of week during Victoria's free public transport period. Green indicates lower traffic volumes relative to the March baseline, while red indicates higher traffic volumes.
+**Figure R1.** Changes in public transport use, car use and mode substitution during the free public transport period.
 
-The heatmap highlights substantial variation between corridors. The strongest and most consistent reductions occurred on the Tullamarine corridor, while the West Gate corridor displayed a different pattern, likely reflecting freight and logistics activity.
-
----
-
-## Policy Period Effects
-
-| Corridor    | Launch Period | Easter | School Holidays | Post-Holiday Normal |
-| ----------- | ------------: | -----: | --------------: | ------------------: |
-| Eastern     |         +0.1% | -30.2% |           -9.9% |               +0.0% |
-| Monash      |         +3.3% | -21.8% |           -4.6% |               -3.1% |
-| Nepean      |         -1.3% | -29.0% |           -5.4% |               -0.0% |
-| Tullamarine |         -0.4% | -22.5% |           -4.8% |               -7.2% |
-| West Gate   |         -6.8% | -28.4% |          -17.3% |               +9.9% |
-
-Traffic reductions were largest during Easter and school holiday periods. After those effects are removed, more modest but still measurable reductions remain on most monitored corridors, particularly Tullamarine and Monash.
-
-## Drivers of Travel Behaviour Change
+## 2.2 Drivers of Travel Behaviour Change
 
 _What drove changes in travel behaviour?_
 
@@ -64,19 +42,7 @@ These findings suggest that travel behaviour during the study period was shaped 
 
 **Figure R2.** Most important factors influencing reported travel behaviour changes during the free public transport period.
 
-## Mode Substitution and Behavioural Change
-
-The survey found clear evidence of behavioural change during the free public transport period. More than one-third of respondents (38.2%) reported replacing at least some private car trips with public transport. Among those who changed behaviour, most substituted between one and five car trips per week.
-
-The removal of fares emerged as the single most important reason for replacing car trips with public transport, followed by increased fuel prices. Convenience, parking costs and environmental concerns played smaller but still measurable roles.
-
-The findings indicate that the policy encouraged many Victorians to experiment with public transport and substitute selected car trips, even though large-scale reductions in overall road traffic were not observed across all corridors.
-
-![Mode substitution dashboard](figures/analysis_mode_substitution.png)
-
-**Figure R3.** Changes in public transport use, car use and mode substitution during the free public transport period.
-
-# Public Transport Experience and Service Quality
+# 2.3 Public Transport Experience and Service Quality
 
 Survey respondents generally reported positive perceptions of public transport services. Ease of use received the strongest ratings, with approximately 69% of active users rating it as good or very good. Overall convenience, travel time and reliability also received predominantly positive assessments.
 
@@ -86,9 +52,9 @@ These findings suggest that while fare reductions encouraged greater public tran
 
 ![Public transport performance](figures/analysis_pt_performance.png)
 
-**Figure R4.** Passenger evaluation of public transport service attributes during the free public transport period.
+**Figure R3.** Passenger evaluation of public transport service attributes during the free public transport period.
 
-## Future Travel Behaviour and Policy Implications
+## 2.4 Future Travel Behaviour and Policy Implications
 
 Survey respondents expressed mixed expectations regarding their future travel behaviour once free public transport ended. While many anticipated returning to previous travel patterns, a substantial proportion expected to maintain increased public transport use or remained uncertain about their future behaviour.
 
@@ -100,9 +66,9 @@ These findings support the decision to continue monitoring travel behaviour duri
 
 ![Future Travel Behaviour and Policy Implications](figures/analysis_future_behaviour.png)
 
-**Figure R5.** Future travel intentions and attitudes towards public transport affordability policies.
+**Figure R4.** Future travel intentions and attitudes towards public transport affordability policies.
 
-## Qualitative Insights from Open-Text Responses
+## 2.5 Qualitative Insights from Open-Text Responses
 
 The survey included opportunities for respondents to provide open-ended comments regarding the free public transport initiative and their travel experiences. Thematic analysis revealed a mixture of supportive and critical perspectives.
 
@@ -116,4 +82,42 @@ The qualitative findings reinforce the broader survey results by demonstrating s
 
 ![Open text themes](figures/analysis_open_text_themes.png)
 
-**Figure R6.** Major themes identified from qualitative analysis of respondent comments.
+**Figure R5.** Major themes identified from qualitative analysis of respondent comments.
+
+## 3. Traffic Analysis Results
+
+## 3.1 Corridor Traffic Summary
+
+| Corridor    | Average Change |
+| ----------- | -------------: |
+| Tullamarine |          -6.4% |
+| Monash      |          -3.2% |
+| Eastern     |          -2.2% |
+| Nepean      |          -1.3% |
+| West Gate   |          +3.1% |
+
+Four of the five monitored corridors recorded lower traffic volumes than their matched March baseline.
+
+---
+
+## 3.2 Day-of-Week Traffic Heatmap
+
+![Day-of-week traffic changes during Victoria's free public transport period](figures/heatmap_dayofweek.png)
+
+**Figure R6.** Average traffic change by corridor and day of week during Victoria's free public transport period. Green indicates lower traffic volumes relative to the March baseline, while red indicates higher traffic volumes.
+
+The heatmap highlights substantial variation between corridors. The strongest and most consistent reductions occurred on the Tullamarine corridor, while the West Gate corridor displayed a different pattern, likely reflecting freight and logistics activity.
+
+---
+
+## 3.3 Policy Period Effects
+
+| Corridor    | Launch Period | Easter | School Holidays | Post-Holiday Normal |
+| ----------- | ------------: | -----: | --------------: | ------------------: |
+| Eastern     |         +0.1% | -30.2% |           -9.9% |               +0.0% |
+| Monash      |         +3.3% | -21.8% |           -4.6% |               -3.1% |
+| Nepean      |         -1.3% | -29.0% |           -5.4% |               -0.0% |
+| Tullamarine |         -0.4% | -22.5% |           -4.8% |               -7.2% |
+| West Gate   |         -6.8% | -28.4% |          -17.3% |               +9.9% |
+
+Traffic reductions were largest during Easter and school holiday periods. After those effects are removed, more modest but still measurable reductions remain on most monitored corridors, particularly Tullamarine and Monash.

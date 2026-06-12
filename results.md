@@ -101,3 +101,19 @@ These findings support the decision to continue monitoring travel behaviour duri
 ![Future Travel Behaviour and Policy Implications](figures/analysis_future_behaviour.png)
 
 **Figure R5.** Future travel intentions and attitudes towards public transport affordability policies.
+
+## Qualitative Insights from Open-Text Responses
+
+The survey included opportunities for respondents to provide open-ended comments regarding the free public transport initiative and their travel experiences. Thematic analysis revealed a mixture of supportive and critical perspectives.
+
+The most frequently occurring theme involved positive endorsement of the initiative and support for extending affordable public transport measures. Many respondents highlighted cost-of-living benefits, increased mobility and improved access to employment, education and social activities.
+
+However, respondents also raised concerns regarding the fiscal sustainability of fare reductions, service quality, and the uneven distribution of benefits between metropolitan and regional areas. Operational issues including delays, replacement buses, overcrowding and service reliability were also commonly discussed.
+
+A smaller but important group of respondents highlighted personal safety concerns, particularly relating to evening travel and security at stations and stops.
+
+The qualitative findings reinforce the broader survey results by demonstrating strong public support for affordable public transport alongside ongoing concerns about service quality, reliability and equity.
+
+![Open text themes](figures/analysis_open_text_themes.png)
+
+**Figure R6.** Major themes identified from qualitative analysis of respondent comments.

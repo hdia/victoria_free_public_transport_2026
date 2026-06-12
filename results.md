@@ -64,3 +64,17 @@ These findings suggest that travel behaviour during the study period was shaped 
 
 **Figure R2.** Most important factors influencing reported travel behaviour changes during the free public transport period.
 
+## Mode Substitution and Behavioural Change
+
+The survey found clear evidence of behavioural change during the free public transport period. More than one-third of respondents (38.2%) reported replacing at least some private car trips with public transport. Among those who changed behaviour, most substituted between one and five car trips per week.
+
+The removal of fares emerged as the single most important reason for replacing car trips with public transport, followed by increased fuel prices. Convenience, parking costs and environmental concerns played smaller but still measurable roles.
+
+The findings indicate that the policy encouraged many Victorians to experiment with public transport and substitute selected car trips, even though large-scale reductions in overall road traffic were not observed across all corridors.
+
+![Mode substitution dashboard](figures/analysis_mode_substitution.png)
+
+**Figure R3.** Changes in public transport use, car use and mode substitution during the free public transport period.
+
+
+

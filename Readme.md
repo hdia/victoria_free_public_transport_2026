@@ -74,6 +74,10 @@ SCATS and TIRTL traffic data are publicly available through Transport Victoria o
 - [Survey postcode distribution](maps/README.md): Geographic distribution of survey respondents across Victoria. 
 - Additional maps and spatial analyses will be added as the project progresses.
 
+## Survey
+
+- [Survey respondent profile](survey_profile.md)
+
 ## Citation
 
 Dia, H. (2026). *Victoria Free Public Transport Experiment 2026: Survey and Traffic Analysis Technical Summary*. Swinburne University of Technology.

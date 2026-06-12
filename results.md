@@ -55,3 +55,11 @@ Traffic reductions were largest during Easter and school holiday periods. After 
 ![Drivers of travel behaviour change](figures/analysis_drivers_of_change.png)
 
 **Figure R2.** Most important factors influencing reported travel behaviour changes during the free public transport period.
+
+_What drove changes in travel behaviour?_
+
+Survey respondents identified multiple factors influencing their travel decisions. Increased fuel prices (258 responses) and free public transport (250 responses) emerged as the two most frequently cited drivers of behavioural change. A further 282 respondents indicated that no single factor dominated their decision-making.
+
+Other influences included public transport convenience, travel time considerations, work and lifestyle changes, parking costs, and access to public transport services.
+
+These findings suggest that travel behaviour during the study period was shaped by a combination of economic, transport and personal factors rather than by fare changes alone. This highlights the importance of considering broader contextual influences when evaluating the impacts of transport pricing policies.

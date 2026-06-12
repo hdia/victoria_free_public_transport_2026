@@ -74,7 +74,7 @@ SCATS and TIRTL traffic data are publicly available through Transport Victoria o
 - [Survey postcode distribution](maps/README.md): Geographic distribution of survey respondents across Victoria. 
 - Additional maps and spatial analyses will be added as the project progresses.
 
-## Survey
+## Survey Profile
 
 - [Survey respondent profile](survey_profile.md)
 

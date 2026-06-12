@@ -28,6 +28,8 @@ The findings indicate that the policy encouraged many Victorians to experiment w
 
 **Figure R1.** Changes in public transport use, car use and mode substitution during the free public transport period.
 
+---
+
 ## 2.2 Drivers of Travel Behaviour Change
 
 _What drove changes in travel behaviour?_
@@ -42,6 +44,8 @@ These findings suggest that travel behaviour during the study period was shaped 
 
 **Figure R2.** Most important factors influencing reported travel behaviour changes during the free public transport period.
 
+---
+
 ## 2.3 Public Transport Experience and Service Quality
 
 Survey respondents generally reported positive perceptions of public transport services. Ease of use received the strongest ratings, with approximately 69% of active users rating it as good or very good. Overall convenience, travel time and reliability also received predominantly positive assessments.
@@ -53,6 +57,8 @@ These findings suggest that while fare reductions encouraged greater public tran
 ![Public transport performance](figures/analysis_pt_performance.png)
 
 **Figure R3.** Passenger evaluation of public transport service attributes during the free public transport period.
+
+---
 
 ## 2.4 Future Travel Behaviour and Policy Implications
 
@@ -67,6 +73,8 @@ These findings support the decision to continue monitoring travel behaviour duri
 ![Future Travel Behaviour and Policy Implications](figures/analysis_future_behaviour.png)
 
 **Figure R4.** Future travel intentions and attitudes towards public transport affordability policies.
+
+---
 
 ## 2.5 Qualitative Insights from Open-Text Responses
 
@@ -83,6 +91,8 @@ The qualitative findings reinforce the broader survey results by demonstrating s
 ![Open text themes](figures/analysis_open_text_themes.png)
 
 **Figure R5.** Major themes identified from qualitative analysis of respondent comments.
+
+---
 
 ## 3. Traffic Analysis Results
 

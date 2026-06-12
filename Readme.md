@@ -64,7 +64,10 @@ SCATS and TIRTL traffic data are publicly available through Transport Victoria o
 
 - `methodology.md`: Summary of survey and traffic analysis methods.
 - `findings.md`: Key findings and interpretation.
+- `results.md`: Key results and analyses.
+- `survey_profile.md`: Key survey profile information.
 - `updates.md`: Ongoing updates during the 50% fare period.
+- `maps/`: Key spatial analyses.
 - `figures/`: Public figures and charts.
 - `tables/`: Aggregated summary tables.
 - `docs/`: Technical summaries and reports.

@@ -42,7 +42,7 @@ These findings suggest that travel behaviour during the study period was shaped 
 
 **Figure R2.** Most important factors influencing reported travel behaviour changes during the free public transport period.
 
-# 2.3 Public Transport Experience and Service Quality
+## 2.3 Public Transport Experience and Service Quality
 
 Survey respondents generally reported positive perceptions of public transport services. Ease of use received the strongest ratings, with approximately 69% of active users rating it as good or very good. Overall convenience, travel time and reliability also received predominantly positive assessments.
 

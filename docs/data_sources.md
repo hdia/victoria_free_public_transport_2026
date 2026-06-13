@@ -103,8 +103,11 @@ GTFS data provides information about public transport supply and network operati
 
 ---
 
-## 5. Other Supporting Data Sources (To be confirmed)
+## 5. Other Supporting Data Sources
 
+To be confirmed.
+
+---
 ## Data Integration Approach
 
 The project adopts a multi-source evidence framework.

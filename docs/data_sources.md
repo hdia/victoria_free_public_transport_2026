@@ -103,46 +103,7 @@ GTFS data provides information about public transport supply and network operati
 
 ---
 
-## 5. Public Transport Patronage Data (Proposed)
-
-### Status
-
-Under discussion with the Victorian Department of Transport and Planning.
-
-### Potential Scope
-
-* Daily train station patronage
-* Daily train line patronage
-* Daily tram route patronage
-* Daily bus route patronage
-* Network-level patronage indicators
-
-### Purpose
-
-Patronage data would allow behavioural and traffic changes to be compared directly with public transport demand.
-
----
-
-## 6. DSpark Mobility Data (Under Review)
-
-### Status
-
-Application currently under review through AURIN.
-
-### Potential Scope
-
-Aggregated and privacy-preserving mobility indicators, including:
-
-* Origin-destination movements
-* Temporal travel patterns
-* Travel distance indicators
-* Mobility trends during the fare intervention period
-
-### Purpose
-
-DSpark data would provide a broader understanding of mobility patterns across Victoria and support analysis of travel behaviour beyond individual transport modes.
-
----
+## 5. Other Supporting Data Sources (To be confirmed)
 
 ## Data Integration Approach
 

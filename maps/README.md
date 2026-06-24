@@ -19,3 +19,8 @@ The geographic spread of responses provides confidence that the survey captured 
 ## Traffic Detection Locations
 ![Traffic Detection Locations](detector_locations.png)
 
+**Map 2.** Traffic detector locations used in the corridor analysis. SCATS detector sites are shown as diamonds and TIRTL detector sites are shown as circles. The map covers five monitored corridors: Eastern Freeway, Nepean Highway, Monash Freeway, Tullamarine Freeway and the West Gate corridor.
+
+The detector locations shown in this map were used to support the traffic monitoring component of the Victoria Free Public Transport Experiment 2026. SCATS data were used for the Eastern Freeway and Nepean Highway corridors, while TIRTL data were used for the Monash, Tullamarine and West Gate corridors.
+
+The map illustrates the spatial coverage of the traffic monitoring network used in the first phase of the study. Detector locations were selected to provide coverage across a range of commuter, airport, freight and mixed-use travel markets. The next phase of the research will aim to expand coverage by adding further detector locations along the existing corridors and incorporating additional routes where suitable data are available.

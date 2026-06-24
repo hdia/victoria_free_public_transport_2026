@@ -15,3 +15,5 @@ A total of 1,028 Victorian residents participated in the survey. As expected, th
 Responses were aggregated to postcode level for visualisation purposes. Marker sizes indicate the number of survey respondents residing within each postcode area. To protect participant privacy and comply with research ethics requirements, only aggregated postcode-level data are presented and precise residential locations are not shown.
 
 The geographic spread of responses provides confidence that the survey captured experiences from a wide cross-section of Victorian residents during the free public transport period.
+
+## Traffic Detection Locations

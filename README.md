@@ -24,6 +24,14 @@ This version summarises early findings from:
 
 Further updates will be added as the 50% discounted fare period continues during 2026.
 
+## Technical Report
+
+The first technical evaluation of Victoria's free public transport initiative is available here:
+
+📄 [Technical Report Version 1.0 (June 2026)](docs/technical_report_v1.0_june_2026.pdf)
+
+This report summarises findings from a statewide survey of 1,028 Victorian residents and traffic monitoring data collected across five major Melbourne transport corridors during the free public transport period (31 March to 31 May 2026).
+
 ## Key findings
 
 The survey found that during the free public transport period:

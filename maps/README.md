@@ -25,9 +25,9 @@ The detector locations shown in this map were used to support the traffic monito
 
 The map illustrates the spatial coverage of the traffic monitoring network used in the first phase of the study. Detector locations were selected to provide coverage across a range of commuter, airport, freight and mixed-use travel markets. The next phase of the research will aim to expand coverage by adding further detector locations along the existing corridors and incorporating additional routes where suitable data are available.
 
+## Interactive Detector Map
 An interactive version of the detector location map is available through GitHub Pages:
 
-**Interactive detector map:**
 https://hdia.github.io/victoria_free_public_transport_2026/maps/detector_locations_map.html
 
 The interactive map allows users to zoom, pan and inspect individual detector locations used in the study. Selecting a detector displays additional information including the detector type (SCATS or TIRTL), site identifier, corridor and geographic coordinates. The map provides a detailed view of the traffic monitoring network used to support the first phase of the Victoria Free Public Transport Experiment 2026.

@@ -17,3 +17,4 @@ Responses were aggregated to postcode level for visualisation purposes. Marker s
 The geographic spread of responses provides confidence that the survey captured experiences from a wide cross-section of Victorian residents during the free public transport period.
 
 ## Traffic Detection Locations
+![Survey postcode distribution](traffic_detector_locations.png)

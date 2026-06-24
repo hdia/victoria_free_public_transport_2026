@@ -29,13 +29,10 @@ The map illustrates the spatial coverage of the traffic monitoring network used 
 An interactive version of the detector location map is available through GitHub Pages:
 
 <p>
-<a href="https://hdia.github.io/victoria_free_public_transport_2026/maps/detector_locations_map.html"
-target="_blank">
-🔗 Open Interactive Detector Map
+<a href="https://hdia.github.io/victoria_free_public_transport_2026/maps/detector_locations_map.html" target="_blank">
+Open Interactive Detector Map
 </a>
 </p>
-
-https://hdia.github.io/victoria_free_public_transport_2026/maps/detector_locations_map.html
 
 The interactive map allows users to zoom, pan and inspect individual detector locations used in the study. Selecting a detector displays additional information including the detector type (SCATS or TIRTL), site identifier, corridor and geographic coordinates. The map provides a detailed view of the traffic monitoring network used to support the first phase of the Victoria Free Public Transport Experiment 2026.
 
